@@ -1,0 +1,30 @@
+c:\users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.exe.config
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.exe
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.pdb
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.Anasayfa.resources
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.ÜyeGiris.resources
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.YoneticiGiris.resources
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.Properties.Resources.resources
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.exe
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.pdb
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.uyeol.resources
+C:\Users\asus\documents\visual studio 2013\Projects\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.yoneticisayfa.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.exe.config
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.exe
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.pdb
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.exe
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\bin\Debug\TAKI OTOMASYONU.pdb
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.Anasayfa.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.uyeol.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.yoneticisayfa.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.ÜyeGiris.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.YoneticiGiris.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.Properties.Resources.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.Sepet.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.üyeSil.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.OnayForm.resources
+C:\Users\asus\Desktop\ntp\TAKI OTOMASYONU\TAKI OTOMASYONU\obj\Debug\TAKI_OTOMASYONU.takılarForm.resources
